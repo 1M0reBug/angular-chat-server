@@ -1,0 +1,10 @@
+{
+    "env": {
+      "node": true
+    },
+    "extends": "airbnb",
+    "rules": {
+        "indent": ["error", 4],
+        "no-console": ["warn", { "allow": ["log", "error"] }]
+    }
+}
