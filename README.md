@@ -1,4 +1,4 @@
-# socket.io server
+# Angular chat socket.io server
 
 This server uses the [socket.io](https://socket.io) library to create a websocket server.
 Basically it sends messages with object to specific clients.
