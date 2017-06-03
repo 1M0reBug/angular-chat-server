@@ -1,8 +1,8 @@
 {
-  "name": "idt-messaging-test-server",
+  "name": "angular-chat-server",
   "version": "0.0.1",
   "main": "server.js",
-  "author": "1M0reBug <jordan.quagliatini@gmail.com>",
+  "author": "1M0reBug",
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.1",
